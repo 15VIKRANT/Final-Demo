@@ -3,7 +3,7 @@ function App() {
     <div className="App" style={{display:"flex"}}>
       <div style={{border:"1px solid red"}}>
      <h1>---------------</h1>
-     <h2>Hello Boss</h2>
+     <h2>This is main branch</h2>
      <h3>Hello Boss</h3>
      <h4>Hello Boss</h4>
      <h5>Hello Boss</h5>
